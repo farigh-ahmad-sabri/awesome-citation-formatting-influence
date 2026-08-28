@@ -1,2 +1,2 @@
-# awesome-citation-formatting-influence
-The Influence of Citation Formatting on Human Trust in  Fabricated References. An Interdisciplinary Review at the Intersection of Information Science, Credibility Psychology, and Generative AI .
+# The Influence of Citation Formatting on Human Trust in Fabricated References
+An interdisciplinary review at the intersection of information science, credibility psychology, and generative AI. This paper synthesizes empirical and theoretical literature from information science, communication studies, cognitive psychology, and human–computer interaction to examine a specific and underexamined question: to what extent does the formatting of a citation — its style, completeness, apparent specificity, and surface conformity to disciplinary norms — shape human trust in a reference, independent of whether that reference actually exists? 
